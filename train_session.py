@@ -181,7 +181,7 @@ class TrainSession:
             rewards_per_episode = list()
 
             if save_video:
-                env = gym.wrappers.Monitor(self.env, os.path.join(var.PATH, f"{agent_name}_{datetime.now()}"),
+                env = gym.wrappers.Monitor(self.env, os.path.join(var.PATH, 'video_test', f"{agent_name}_{datetime.now()}"),
                                            force=True)
             else:
                 env = self.env
