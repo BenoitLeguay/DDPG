@@ -1,6 +1,10 @@
 # DDPG
 Implementing Deep Deterministic Policy Gradient Algorithm
 
+![result_reward](https://github.com/BenoitLeguay/DDPG/blob/main/.images/algo.png)
+
+http://proceedings.mlr.press/v32/silver14.pdf
+
 ### Pendulum-v0
 
 ![result_reward](https://github.com/BenoitLeguay/DDPG/blob/main/.images/Screenshot%20from%202020-10-14%2013-23-25.png)
