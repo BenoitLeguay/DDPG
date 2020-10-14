@@ -3,11 +3,11 @@ Implementing Deep Deterministic Policy Gradient Algorithm
 
 ### Pendulum-v0
 
-![Screenshot from 2020-10-14 13-23-25](https://github.com/BenoitLeguay/DDPG/.images/Screenshot from 2020-10-14 13-23-25.png)
+![result_reward](https://github.com/BenoitLeguay/DDPG/blob/main/.images/Screenshot%20from%202020-10-14%2013-23-25.png)
 
 
 
-![pendulum](https://github.com/BenoitLeguay/DDPG/.images/pendulum.gif)
+![pendulum_gif](https://github.com/BenoitLeguay/DDPG/blob/main/.images/pendulum.gif)
 
 ###### Agent parameters
 
